@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Rajesh_web/static/css/main.db2b6cb3.css",
+    "main.js": "/Rajesh_web/static/js/main.80d13043.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Rajesh_web/static/js/787.28cb0dcd.chunk.js",
+    "static/media/cat-img-6.png": "/Rajesh_web/static/media/cat-img-6.30cb937b3f51214102b5.png",
+    "static/media/cat-img-7.png": "/Rajesh_web/static/media/cat-img-7.e83a6f81985ba502ee0e.png",
+    "static/media/cat-img-8.png": "/Rajesh_web/static/media/cat-img-8.07c1babb5f5d41a0bffa.png",
+    "static/media/cat-img-3.png": "/Rajesh_web/static/media/cat-img-3.9efe41b5be79455eff41.png",
+    "static/media/cat-img-4.png": "/Rajesh_web/static/media/cat-img-4.c189984ea7b89128a113.png",
+    "static/media/cat-img-2.png": "/Rajesh_web/static/media/cat-img-2.aade29636575131a0095.png",
+    "static/media/cat-img-5.png": "/Rajesh_web/static/media/cat-img-5.449ba8c7887b20e47f40.png",
+    "static/media/cat-img-1.png": "/Rajesh_web/static/media/cat-img-1.9743bc50d847fb07fd94.png",
+    "static/media/myfont.ttf": "/Rajesh_web/static/media/myfont.8d2b847c2c63de003f7b.ttf",
+    "index.html": "/Rajesh_web/index.html",
+    "main.db2b6cb3.css.map": "/Rajesh_web/static/css/main.db2b6cb3.css.map",
+    "main.80d13043.js.map": "/Rajesh_web/static/js/main.80d13043.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Rajesh_web/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db2b6cb3.css",
+    "static/js/main.80d13043.js"
+  ]
+}
