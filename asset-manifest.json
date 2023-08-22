@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Rajesh_web/static/css/main.84b78587.css",
-    "main.js": "/Rajesh_web/static/js/main.daedcd8c.js",
+    "main.css": "/Rajesh_web/static/css/main.ecba9f94.css",
+    "main.js": "/Rajesh_web/static/js/main.338b332b.js",
     "static/js/787.28cb0dcd.chunk.js": "/Rajesh_web/static/js/787.28cb0dcd.chunk.js",
     "static/media/cat-img-6.png": "/Rajesh_web/static/media/cat-img-6.30cb937b3f51214102b5.png",
     "static/media/cat-img-7.png": "/Rajesh_web/static/media/cat-img-7.e83a6f81985ba502ee0e.png",
@@ -13,12 +13,12 @@
     "static/media/cat-img-1.png": "/Rajesh_web/static/media/cat-img-1.9743bc50d847fb07fd94.png",
     "static/media/myfont.ttf": "/Rajesh_web/static/media/myfont.8d2b847c2c63de003f7b.ttf",
     "index.html": "/Rajesh_web/index.html",
-    "main.84b78587.css.map": "/Rajesh_web/static/css/main.84b78587.css.map",
-    "main.daedcd8c.js.map": "/Rajesh_web/static/js/main.daedcd8c.js.map",
+    "main.ecba9f94.css.map": "/Rajesh_web/static/css/main.ecba9f94.css.map",
+    "main.338b332b.js.map": "/Rajesh_web/static/js/main.338b332b.js.map",
     "787.28cb0dcd.chunk.js.map": "/Rajesh_web/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84b78587.css",
-    "static/js/main.daedcd8c.js"
+    "static/css/main.ecba9f94.css",
+    "static/js/main.338b332b.js"
   ]
 }
